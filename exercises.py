@@ -11,4 +11,3 @@ def exercise_file_ext(file_name):
     file_ext = file[-1]
     return file_ext
 
-exercise_reverse_name(5434567)
